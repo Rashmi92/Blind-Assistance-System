@@ -1,0 +1,9 @@
+Blind Assistance System is a mobile application that captures a video of an indoor environment and sends frames to the server.
+
+Java server is the intermediate server which connects to the main server and receives generated messages from the main server.
+
+Steps to run the application:
+1. Install BlindAssistance3 project in your android machine.
+2. Run javaServer
+ 
+

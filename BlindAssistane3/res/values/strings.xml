@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlindAssistane3</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="welcome">Welcome to Blind Assistance System</string>
+    <string name="welcome_text">Welcome to Blind Assistance System. Click anywhere to Start Application</string>
+    <string name="height">Enter height: </string>
+    <string name="title_activity_camera_activity2">CameraActivity2</string>
+
+</resources>
